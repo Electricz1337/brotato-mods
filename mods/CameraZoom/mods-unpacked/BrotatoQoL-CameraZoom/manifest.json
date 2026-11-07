@@ -1,0 +1,21 @@
+{
+	"name": "CameraZoom",
+	"namespace": "BrotatoQoL",
+	"version_number": "1.0.0",
+	"description": "Zoom the game camera in or out to see less or more of the map. Configurable with ModOptions.",
+	"website_url": "",
+	"dependencies": [],
+	"extra": {
+		"godot": {
+			"authors": [],
+			"optional_dependencies": ["Oudstand-ModOptions"],
+			"compatible_game_version": ["1.2.0.1"],
+			"compatible_mod_loader_version": ["6.3.0"],
+			"incompatibilities": [],
+			"load_before": [],
+			"tags": ["GUI"],
+			"config_schema": {},
+			"description_rich": ""
+		}
+	}
+}

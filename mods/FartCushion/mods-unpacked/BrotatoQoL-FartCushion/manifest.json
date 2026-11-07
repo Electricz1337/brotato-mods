@@ -1,0 +1,30 @@
+{
+	"name": "FartCushion",
+	"namespace": "BrotatoQoL",
+	"version_number": "1.3.1",
+	"description": "Adds the Whoopee Cushion item: dash with Shift or L3 on the controller (rebindable via ModOptions). Cooldown 3s, reduced by attack speed.",
+	"website_url": "",
+	"dependencies": [],
+	"extra": {
+		"godot": {
+			"authors": [],
+			"optional_dependencies": [
+				"Oudstand-ModOptions"
+			],
+			"compatible_game_version": [
+				"1.2.0.1"
+			],
+			"compatible_mod_loader_version": [
+				"6.3.0"
+			],
+			"incompatibilities": [],
+			"load_before": [],
+			"tags": [
+				"Items",
+				"New Mechanics"
+			],
+			"config_schema": {},
+			"description_rich": ""
+		}
+	}
+}

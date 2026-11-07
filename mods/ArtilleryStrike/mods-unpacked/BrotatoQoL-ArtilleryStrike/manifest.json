@@ -1,0 +1,21 @@
+{
+	"name": "ArtilleryStrike",
+	"namespace": "BrotatoQoL",
+	"version_number": "1.1.0",
+	"description": "Adds the Artillery Strike item: every 15s a crosshair appears at a random spot and an artillery shell hits it 3s later.",
+	"website_url": "",
+	"dependencies": [],
+	"extra": {
+		"godot": {
+			"authors": [],
+			"optional_dependencies": [],
+			"compatible_game_version": ["1.2.0.1"],
+			"compatible_mod_loader_version": ["6.3.0"],
+			"incompatibilities": [],
+			"load_before": [],
+			"tags": ["Items", "New Mechanics"],
+			"config_schema": {},
+			"description_rich": ""
+		}
+	}
+}

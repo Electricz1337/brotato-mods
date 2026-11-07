@@ -1,0 +1,21 @@
+{
+	"name": "Moonwalker",
+	"namespace": "BrotatoQoL",
+	"version_number": "1.0.0",
+	"description": "New character: The Moonwalker. Reversed controls - he always glides backwards and leans further and further forward during the wave.",
+	"website_url": "",
+	"dependencies": [],
+	"extra": {
+		"godot": {
+			"authors": [],
+			"optional_dependencies": [],
+			"compatible_game_version": ["1.2.0.1"],
+			"compatible_mod_loader_version": ["6.3.0"],
+			"incompatibilities": [],
+			"load_before": [],
+			"tags": ["Characters"],
+			"config_schema": {},
+			"description_rich": ""
+		}
+	}
+}

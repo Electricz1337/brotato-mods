@@ -1,0 +1,21 @@
+{
+	"name": "FishHook",
+	"namespace": "BrotatoQoL",
+	"version_number": "1.1.0",
+	"description": "Killing Elites and Bosses can give you a Fish Hook (normal or cursed). Adjustable chances in ModOptions, optional start with a Fish Hook. Requires Abyssal Terrors.",
+	"website_url": "",
+	"dependencies": [],
+	"extra": {
+		"godot": {
+			"authors": [],
+			"optional_dependencies": ["Oudstand-ModOptions"],
+			"compatible_game_version": ["1.2.0.1"],
+			"compatible_mod_loader_version": ["6.3.0"],
+			"incompatibilities": [],
+			"load_before": [],
+			"tags": ["Items", "Reworks"],
+			"config_schema": {},
+			"description_rich": ""
+		}
+	}
+}

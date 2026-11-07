@@ -1,0 +1,21 @@
+{
+	"name": "Coinflip",
+	"namespace": "BrotatoQoL",
+	"version_number": "1.0.0",
+	"description": "At the end of every wave, bet all materials you collected in that wave on a coin flip: heads, tails or skip.",
+	"website_url": "",
+	"dependencies": [],
+	"extra": {
+		"godot": {
+			"authors": [],
+			"optional_dependencies": [],
+			"compatible_game_version": ["1.2.0.1"],
+			"compatible_mod_loader_version": ["6.3.0"],
+			"incompatibilities": [],
+			"load_before": [],
+			"tags": ["New Mechanics", "Challenges"],
+			"config_schema": {},
+			"description_rich": ""
+		}
+	}
+}

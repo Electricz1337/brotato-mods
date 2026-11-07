@@ -1,0 +1,21 @@
+{
+	"name": "GameSpeed",
+	"namespace": "BrotatoQoL",
+	"version_number": "1.0.0",
+	"description": "Change the game speed during waves (0.5x - 10x) with a slider in ModOptions.",
+	"website_url": "",
+	"dependencies": [],
+	"extra": {
+		"godot": {
+			"authors": [],
+			"optional_dependencies": ["Oudstand-ModOptions"],
+			"compatible_game_version": ["1.2.0.1"],
+			"compatible_mod_loader_version": ["6.3.0"],
+			"incompatibilities": [],
+			"load_before": [],
+			"tags": ["Reworks"],
+			"config_schema": {},
+			"description_rich": ""
+		}
+	}
+}
