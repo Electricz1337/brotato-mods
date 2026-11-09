@@ -1,8 +1,8 @@
 # Brotato QoL Mods
 
-A collection of 19 mods for [Brotato](https://store.steampowered.com/app/1942280/Brotato/): quality-of-life features, cheats, new items, a new character and gameplay tweaks.
+A collection of 20 mods for [Brotato](https://store.steampowered.com/app/1942280/Brotato/): quality-of-life features, cheats, new items, a new character and gameplay tweaks.
 
-*Eine Sammlung von 19 Mods für Brotato – Komfortfunktionen, Cheats, neue Items, ein neuer Charakter und Gameplay-Anpassungen. Alle Mods sind auch im Steam Workshop verfügbar (Links in der Tabelle).*
+*Eine Sammlung von 20 Mods für Brotato – Komfortfunktionen, Cheats, neue Items, ein neuer Charakter und Gameplay-Anpassungen. Alle Mods sind auch im Steam Workshop verfügbar (Links in der Tabelle).*
 
 ## Mods
 
@@ -27,6 +27,7 @@ A collection of 19 mods for [Brotato](https://store.steampowered.com/app/1942280
 | <img src="mods/FishHook/preview.png" width="64"> | **[FishHook](mods/FishHook)** | 1.1.0 | Killing Elites and Bosses can give you a Fish Hook (normal or cursed). Adjustable chances in ModOptions, optional start with a Fish Hook. Requires Abyssal Terrors. | Abyssal Terrors | ✓ | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3834853628) |
 | <img src="mods/GameSpeed/preview.png" width="64"> | **[GameSpeed](mods/GameSpeed)** | 1.0.0 | Change the game speed during waves (0.5x - 10x) with a slider in ModOptions. | – | ✓ | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3834871666) |
 | <img src="mods/StackableCyberArm/preview.png" width="64"> | **[StackableCyberArm](mods/StackableCyberArm)** | 1.0.0 | The Cybernetic Arm is no longer unique and can be bought multiple times (+1 weapon slot each). Requires Primal Dread. | Primal Dread |  | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3834876738) |
+| <img src="mods/ResumeCountdown/preview.png" width="64"> | **[ResumeCountdown](mods/ResumeCountdown)** | 1.0.0 | After leaving the pause menu during a wave, a countdown (default 3s, 1-10s via ModOptions) is shown before the game continues. | – | ✓ | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3836740945) |
 
 **ModOptions ✓** = settings can be changed in-game with [ModOptions](https://steamcommunity.com/sharedfiles/filedetails/?id=3598984651) (optional – without it the mods use their default settings).
 

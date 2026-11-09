@@ -1,0 +1,21 @@
+{
+	"name": "ResumeCountdown",
+	"namespace": "BrotatoQoL",
+	"version_number": "1.0.0",
+	"description": "After leaving the pause menu during a wave, a countdown (default 3s, 1-10s via ModOptions) is shown before the game continues.",
+	"website_url": "",
+	"dependencies": [],
+	"extra": {
+		"godot": {
+			"authors": [],
+			"optional_dependencies": ["Oudstand-ModOptions"],
+			"compatible_game_version": ["1.2.0.1"],
+			"compatible_mod_loader_version": ["6.3.0"],
+			"incompatibilities": [],
+			"load_before": [],
+			"tags": ["GUI"],
+			"config_schema": {},
+			"description_rich": ""
+		}
+	}
+}
